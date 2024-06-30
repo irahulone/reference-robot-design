@@ -1,1 +1,2 @@
-# Reference Robot Design - R2D
+# How to Design a Mobile Robot - a Reference Guide
+## Reference Robot Design - R2D
