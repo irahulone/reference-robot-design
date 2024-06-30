@@ -1,2 +1,1 @@
-# reference-robot-design
-R2D
+# Reference Robot Design, R2D
